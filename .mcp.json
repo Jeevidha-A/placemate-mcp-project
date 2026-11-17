@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "PlaceMate Jobs": {
+      "type": "stdio",
+      "command": "uv",
+      "args": [
+        "--directory",
+        "C:\\Users\\jeevi\\Documents\\placemate",
+        "run",
+        "server.py"
+      ]
+    },
+    "my-mcp-server-45c0c67e": {
+      "type": "stdio",
+      "command": "uv",
+      "args": []
+    }
+  }
+}
